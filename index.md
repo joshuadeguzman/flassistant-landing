@@ -12,7 +12,7 @@ page_sections:
   - link: "#"
     link_text: Features
   - link: "#"
-    link_text: Pricing
+    link_text: Tech
   - link: "#"
     link_text: Team
   cta:
@@ -75,6 +75,6 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
----
 
+---
 foo bar
