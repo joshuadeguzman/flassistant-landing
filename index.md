@@ -28,7 +28,7 @@ page_sections:
     url: https://flassistant.com/#trynow
     button_text: See on Google Actions Store
   image:
-    image: "/uploads/2019/02/25/freelancer-banner-1.png"
+    image: "/uploads/2019/02/25/freelancer-banner-1-alt.png"
     alt_text: Freelancer.com Alt
   background_image: ''
 - template: content-feature
@@ -43,7 +43,7 @@ page_sections:
     more.<br><br>The assistant is powered by Google Actions and Freelancer.com's robust
     API."
   media:
-    image: "/uploads/2019/02/25/freelancer-banner-2.png"
+    image: "/uploads/2019/02/25/freelancer-banner-2-alt.png"
     alt_text: Freelancer.com
 - template: simple-footer
   block: footer-1
