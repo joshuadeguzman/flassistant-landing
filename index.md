@@ -16,7 +16,7 @@ page_sections:
   - link: "#"
     link_text: Team
   cta:
-    url: https://flassistant.com
+    url: https://flassistant.com/#trynow
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
