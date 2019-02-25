@@ -20,7 +20,7 @@ page_sections:
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
-  headline: Freelancer Assistant<br><strong>by FL Mobile Ninjas</strong>
+  headline: Freelancer Assistant<br><strong>by Mobile Ninjas</strong>
   content: Helps you hire the best freelancers or find your dream jobs right on your
     Google Assistant!
   cta:
@@ -28,18 +28,18 @@ page_sections:
     url: https://flassistant.com/#trynow
     button_text: See on Google Actions Store
   image:
-    image: "/uploads/2019/02/25/freelancer-top.png"
+    image: "/uploads/2019/02/25/freelancer-banner-1.png"
     alt_text: Freelancer.com Alt
   background_image: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: <strong>Runs on Google Assistant </strong>that is available on<span class="light">
-    more than 500 million devices worldwide. </span>
+  headline: <strong>Runs on Google Assistant </strong>that powers more<span class="light">
+    than 500 million devices worldwide.</span>
   content: Quickly assemble and create custom sites with 16 design blocks for seven
     different sections.
   media:
-    image: "/uploads/2019/02/25/freelancer_mid.png"
+    image: "/uploads/2019/02/25/freelancer-banner-2.png"
     alt_text: Freelancer.com
 - template: content-feature
   block: feature-1
