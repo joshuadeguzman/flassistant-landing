@@ -25,22 +25,22 @@ page_sections:
     Google Assistant!
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    url: https://flassistant.com/#trynow
+    button_text: See on Google Actions Store
   image:
-    image: "/uploads/2019/02/25/freelancer-hero-banner.png"
-    alt_text: Freelancer.com
+    image: "/uploads/2019/02/25/freelancer-top.png"
+    alt_text: Freelancer.com Alt
   background_image: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
+  headline: <strong>Runs on Google Assistant </strong>that is available on<span class="light">
+    more than 500 million devices worldwide. </span>
   content: Quickly assemble and create custom sites with 16 design blocks for seven
     different sections.
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
-    alt_text: uBuild Blocks Mock-Up
+    image: "/uploads/2019/02/25/freelancer_mid.png"
+    alt_text: Freelancer.com
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -75,6 +75,7 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
+published: false
 
 ---
 foo bar
