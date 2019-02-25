@@ -28,7 +28,7 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: "/uploads/2019/02/25/freelancer-hero-banner.png"
     alt_text: Freelancer.com
   background_image: "/uploads/2019/02/25/freelancer-hero-banner.png"
 - template: content-feature
