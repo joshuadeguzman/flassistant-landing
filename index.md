@@ -16,8 +16,8 @@ page_sections:
   - link: "#"
     link_text: Team
   cta:
-    url: https://flassistant.com/#trynow
-    button_text: Visit on Google Actions Store
+    url: "#"
+    button_text: BETA
 - template: hero-banner-w-image
   block: hero-2
   headline: Freelancer Assistant<br><strong>by Mobile Ninjas</strong>
