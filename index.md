@@ -30,7 +30,7 @@ page_sections:
   image:
     image: "/uploads/2019/02/25/freelancer-hero-banner.png"
     alt_text: Freelancer.com
-  background_image: "/uploads/2019/02/25/freelancer-hero-banner.png"
+  background_image: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
