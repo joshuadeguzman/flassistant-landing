@@ -28,7 +28,7 @@ page_sections:
     url: https://flassistant.com/#trynow
     button_text: Available on Google Actions Store
   image:
-    image: "/uploads/2019/02/25/freelancer-banner-1-alt-1.png"
+    image: "/uploads/2019/02/25/freelancer-banner-1-alt-2.png"
     alt_text: Freelancer.com Alt
   background_image: ''
 - template: content-feature
