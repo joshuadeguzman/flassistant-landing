@@ -36,12 +36,13 @@ page_sections:
   media_alignment: Left
   headline: <strong>Runs on Google Assistant </strong>that powers more<span class="light">
     than 500 million devices worldwide.</span>
-  content: "<strong>Freelancer Assistant</strong> supports <strong>Posting of Project</strong>!
+  content: <strong>Freelancer Assistant</strong> supports <strong>Posting of Project</strong>!
     <br><br>Other features include browsing of jobs and contests, hiring freelancers
     and more details about Freelancer.com. It also supports authentication of your
     Freelancer.com account using a secured OAuth2 authorisation, enabling you to do
-    more.<br><br>The assistant is powered by Google's AI and Freelancer.com's robust
-    API."
+    more.<br><br>The assistant is powered by <a href="https://developers.google.com/actions/"
+    title="Google Actions">https://developers.google.com/actions/</a> and <a href="http://developer.freelancer.com)"
+    title="Freelancer.com">http://developer.freelancer.com</a>'s robust API.
   media:
     image: "/uploads/2019/02/25/freelancer-banner-2.png"
     alt_text: Freelancer.com
