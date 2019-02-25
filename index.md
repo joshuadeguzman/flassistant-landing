@@ -29,8 +29,8 @@ page_sections:
     button_text: 'See on GitHub '
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
-    alt_text: Product Shot
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+    alt_text: Freelancer.com
+  background_image: "/uploads/2019/02/25/freelancer-hero-banner.png"
 - template: content-feature
   block: feature-1
   media_alignment: Left
