@@ -26,7 +26,7 @@ page_sections:
   cta:
     enabled: true
     url: https://flassistant.com/#trynow
-    button_text: See on Google Actions Store
+    button_text: Available on Google Actions Store
   image:
     image: "/uploads/2019/02/25/freelancer-banner-1-alt-1.png"
     alt_text: Freelancer.com Alt
