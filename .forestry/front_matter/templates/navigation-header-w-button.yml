@@ -37,6 +37,6 @@ fields:
   config:
     color_format: Hex
   label: Background Color
-  name: background_color
+  name: page_background_color
   description: The background color of element
   default: "#1694CF"
