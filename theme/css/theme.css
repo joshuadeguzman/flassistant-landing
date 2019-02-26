@@ -1,0 +1,11 @@
+/* 
+Custom theme styles for Freelancer Assistant
+*/
+
+.flassistant-block-hero-2, .block-header-2--cta {
+        background-color: #1694CF !important;
+}
+
+.block-header-2 .nav-item.active a {
+        color: #1694CF !important;
+}
