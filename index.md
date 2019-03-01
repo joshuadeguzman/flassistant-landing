@@ -39,6 +39,10 @@ page_sections:
   media:
     image: "/uploads/2019/02/25/freelancer-banner-2-alt.png"
     alt_text: Freelancer.com
+- template: full-width-media-element
+  block: media-1
+  caption: Freelancer Assistant Features
+  image: "/uploads/2019/03/01/freelancer-banner-3.png"
 - template: simple-footer
   block: footer-1
   content: Freelancer Assistant by <strong>Mobile Ninjas</strong>
