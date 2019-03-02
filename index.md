@@ -41,7 +41,7 @@ page_sections:
     alt_text: Freelancer.com
 - template: full-width-media-element
   block: media-1
-  caption: Freelancer Assistant Features
+  caption: Do more with Freelancer Assistant
   image: "/uploads/2019/03/02/freelancer-banner-3.png"
 - template: simple-footer
   block: footer-1
