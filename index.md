@@ -42,7 +42,7 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   caption: Freelancer Assistant Features
-  image: "/uploads/2019/03/01/freelancer-banner-3.png"
+  image: "/uploads/2019/03/02/freelancer-banner-3.png"
 - template: simple-footer
   block: footer-1
   content: Freelancer Assistant by <strong>Mobile Ninjas</strong>
