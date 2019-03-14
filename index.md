@@ -16,7 +16,7 @@ page_sections:
   block: hero-2
   headline: Freelancer Assistant<br><strong>by Mobile Ninjas</strong>
   content: Helps you hire the best freelancers or find your dream jobs right on your
-    Google Assistant!
+    Google Assistant
   cta:
     enabled: true
     url: https://flassistant.com/#trynow
